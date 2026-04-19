@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw1", "hw1\hw1.csproj", "{22735221-7C4D-4940-9D94-31A3425690E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw2Enum", "hw2Enum\hw2Enum.csproj", "{0DFC9DB6-8089-44D8-ABB4-C7CB6217595A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{22735221-7C4D-4940-9D94-31A3425690E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22735221-7C4D-4940-9D94-31A3425690E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22735221-7C4D-4940-9D94-31A3425690E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DFC9DB6-8089-44D8-ABB4-C7CB6217595A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFC9DB6-8089-44D8-ABB4-C7CB6217595A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFC9DB6-8089-44D8-ABB4-C7CB6217595A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFC9DB6-8089-44D8-ABB4-C7CB6217595A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
