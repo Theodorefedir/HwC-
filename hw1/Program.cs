@@ -193,6 +193,17 @@ namespace hw1
             }
             return result.ToString();
         }
+        static int CountDifference(int[] arr) {
+            int min = arr.Min();
+            int count = 0;
+            foreach (int el in arr)
+            {
+                if (el == min + 5)
+                    count++;
+            }
+
+            return count;
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
@@ -210,6 +221,7 @@ namespace hw1
                     B[i, j] = Random.Shared.Next(-100, 100);
                     Console.Write($"{B[i, j]} ");
                 }
+                Console.WriteLine();
                 
             }
             Console.WriteLine("");
@@ -240,6 +252,10 @@ namespace hw1
             Console.WriteLine("Sum Among");
             Console.WriteLine(SumAmong(arr2d, minRow, minCol, maxRow, maxCol));
             Console.WriteLine($"Caesar Cipher: {CaesarCipher("text", 4)}");
+
+            //task 3
+            Console.WriteLine(CountDifference(A));
+
 
         }
     }
