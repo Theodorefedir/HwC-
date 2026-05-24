@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hwOOP2", "hwOOP2\hwOOP2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadOperatorsHw", "OverloadOperatorsHw\OverloadOperatorsHw.csproj", "{2E24FE03-C159-4E4B-9E8B-7F1426EB20CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw7", "Hw7\Hw7.csproj", "{71C401A2-7E2B-4A09-9AC1-0C7AA514B34F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2E24FE03-C159-4E4B-9E8B-7F1426EB20CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E24FE03-C159-4E4B-9E8B-7F1426EB20CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E24FE03-C159-4E4B-9E8B-7F1426EB20CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C401A2-7E2B-4A09-9AC1-0C7AA514B34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C401A2-7E2B-4A09-9AC1-0C7AA514B34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C401A2-7E2B-4A09-9AC1-0C7AA514B34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C401A2-7E2B-4A09-9AC1-0C7AA514B34F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
