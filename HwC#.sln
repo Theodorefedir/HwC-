@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadOperatorsHw", "Over
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw7", "Hw7\Hw7.csproj", "{71C401A2-7E2B-4A09-9AC1-0C7AA514B34F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieHW", "MovieHW\MovieHW.csproj", "{65C1A857-2B85-44A0-B6E5-A4FE37F7F038}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{71C401A2-7E2B-4A09-9AC1-0C7AA514B34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71C401A2-7E2B-4A09-9AC1-0C7AA514B34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71C401A2-7E2B-4A09-9AC1-0C7AA514B34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C1A857-2B85-44A0-B6E5-A4FE37F7F038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C1A857-2B85-44A0-B6E5-A4FE37F7F038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C1A857-2B85-44A0-B6E5-A4FE37F7F038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C1A857-2B85-44A0-B6E5-A4FE37F7F038}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
