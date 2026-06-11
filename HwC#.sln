@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw7", "Hw7\Hw7.csproj", "{7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieHW", "MovieHW\MovieHW.csproj", "{65C1A857-2B85-44A0-B6E5-A4FE37F7F038}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{0A1717B4-0C42-4AEB-ACDE-6E5F1AA20170}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{65C1A857-2B85-44A0-B6E5-A4FE37F7F038}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65C1A857-2B85-44A0-B6E5-A4FE37F7F038}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65C1A857-2B85-44A0-B6E5-A4FE37F7F038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1717B4-0C42-4AEB-ACDE-6E5F1AA20170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1717B4-0C42-4AEB-ACDE-6E5F1AA20170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1717B4-0C42-4AEB-ACDE-6E5F1AA20170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1717B4-0C42-4AEB-ACDE-6E5F1AA20170}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
