@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieHW", "MovieHW\MovieHW.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{0A1717B4-0C42-4AEB-ACDE-6E5F1AA20170}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{BAE8A7BA-64BD-4B21-8239-0FC5A0D68FDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{0A1717B4-0C42-4AEB-ACDE-6E5F1AA20170}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A1717B4-0C42-4AEB-ACDE-6E5F1AA20170}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A1717B4-0C42-4AEB-ACDE-6E5F1AA20170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE8A7BA-64BD-4B21-8239-0FC5A0D68FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE8A7BA-64BD-4B21-8239-0FC5A0D68FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE8A7BA-64BD-4B21-8239-0FC5A0D68FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE8A7BA-64BD-4B21-8239-0FC5A0D68FDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
